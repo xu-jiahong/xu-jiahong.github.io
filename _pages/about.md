@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. candidate at the School of Management, University of Science and Technology of China (USTC), Hefei, China. 
 
-I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>. My works have appeared in refereed journals and international conferences, such as International Journal of Information Management, Journal of Computer Information Systems, Journal of Cleaner Production, Nankai Business Review, Management Review, the proceedings of the International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and the Association for Information Science and Technology (ASIS&T) Asia-Pacific Regional Conference.
+I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>. My works have appeared in refereed journals and international conferences, such as International Journal of Information Management, Journal of Computer Information Systems, Journal of Cleaner Production, Nankai Business Review, Management Review, the proceedings of the International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and the Association for Information Science and Technology (ASIST) Asia-Pacific Regional Conference.
 
 My current research interests involve: 
 * metaverse and extended reality (AR/VR/MR)
@@ -51,6 +51,8 @@ Journal Articles
 * [J2]	Du, H. S., **Xu, J. H.***, Li, Z. Y., Liu, Y., and Chu, S. K. W. (2021). "Bibliometric Mapping on Sustainable Development at the Base-of-the-Pyramid," Journal of Cleaner Production (281). [[DOI]](https://doi.org/10.1016/j.jclepro.2020.125290)
 * [J1]	Du, H. S., Zhan, B. Q.*, **Xu, J. H.**, and Yang, X. G. (2019). "The Influencing Mechanism of Multi-Factors on Green Investments: A Hybrid Analysis," Journal of Cleaner Production (239). [[DOI]](https://doi.org/10.1016/j.jclepro.2019.117977)
 
+<span class='anchor' id='-publication'></span>
+
 Conference Proceedings
 ======
 * [C5]	**Xu, J. H.**, Zhou, J. M., Liu, H. F., and Huang, Q. (2023) “How Online Extended Reality (XR) Promotes Consumer Offline Engagement”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[Link]](https://aisel.aisnet.org/icis2023/emobilecomm/emobilecomm/2/)
@@ -71,9 +73,10 @@ Chinese Journal Articles
 * [CJ1]	**Xu, J. H.***, Dong, Z. and Huang, M. (2015). “Application and Relative Advantage of Airship Transportation in Emergency Logistics Operations,” Logistics Technology (34:10), pp. 11-14. [[DOI]](https://doi.org/10.3969/j.issn.1005-152X.2015.10.004)
   * rewarded as **Theoretical Innovation Award** (Second Runner Up) by Logistics and Supply Chain Society of Guangdong, China
 
-<span class='anchor' id='-publication'></span>
+
 
 # 🏅 Honors and Awards
+<span class='anchor' id='-awards'></span>
 * 2023 Nominees, Best Paper, 44th International Conference on Information Systems (ICIS 2023), Association for Information Systems (AIS)
 * 2023 Recipient, Annual Top 10 Case Studies in China, CDGDC, Ministry of Education, China 
 * 2021 Recipient, Outstanding Postgraduate, Education Department of Guangdong Province, China
@@ -81,9 +84,10 @@ Chinese Journal Articles
 * 2015 Members, Outstanding Practice Team Award, All-China Students’ Federation, China
 * 2015 Second Runner Up, Theoretical Innovation Award, Logistics and Supply Chain Society of Guangdong, China
 
-<span class='anchor' id='-awards'></span>
+
 
 # 📖 Academic Services
+<span class='anchor' id='-services'></span>
 * Peer Reviewer for Journals
   * Information Systems Journal
   * Internet Research
@@ -103,4 +107,4 @@ Chinese Journal Articles
   * Wuhan International Conference on E-Business (WICEB)
   * Chinese Association for Information Systems (CNAIS)
 
-<span class='anchor' id='-services'></span>
+
