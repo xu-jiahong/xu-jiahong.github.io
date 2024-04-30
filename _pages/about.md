@@ -27,20 +27,21 @@ My current research interests involve:
 * gamification
 * sustainable business
 
+<span class='anchor' id='-education'></span>
 # 🎓 Education
 * Ph.D in Management Sciences, University of Science and Technology of China, 2025 (expected)
 * M.S. in Management Sciences, Guangdong University of Technology, 2021
 * B.S. in Management Sciences, Guangdong University of Technology, 2018
 
-<span class='anchor' id='-education'></span>
 
+<span class='anchor' id='-visiting'></span>
 # 🏛️ Visiting and Exchange
 * Ph.D Visiting in Nanyang Technological University, 2024
 * Postgraduate Visiting in The University of Hong Kong, 2018
 * Undergraduate Visiting in University of California, Berkeley, 2017
 
-<span class='anchor' id='-visiting'></span>
 
+<span class='anchor' id='-publication'></span>
 # 📝 Publications and Works
 
 Journal Articles
@@ -50,8 +51,6 @@ Journal Articles
 * [J3]	Du, H. S., **Xu, J. H.***, Tang, H., and Jiang, R. X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," Journal of Computer Information Systems (62:1), pp. 174-185. [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
 * [J2]	Du, H. S., **Xu, J. H.***, Li, Z. Y., Liu, Y., and Chu, S. K. W. (2021). "Bibliometric Mapping on Sustainable Development at the Base-of-the-Pyramid," Journal of Cleaner Production (281). [[DOI]](https://doi.org/10.1016/j.jclepro.2020.125290)
 * [J1]	Du, H. S., Zhan, B. Q.*, **Xu, J. H.**, and Yang, X. G. (2019). "The Influencing Mechanism of Multi-Factors on Green Investments: A Hybrid Analysis," Journal of Cleaner Production (239). [[DOI]](https://doi.org/10.1016/j.jclepro.2019.117977)
-
-<span class='anchor' id='-publication'></span>
 
 Conference Proceedings
 ======
@@ -74,9 +73,8 @@ Chinese Journal Articles
   * rewarded as **Theoretical Innovation Award** (Second Runner Up) by Logistics and Supply Chain Society of Guangdong, China
 
 
-
-# 🏅 Honors and Awards
 <span class='anchor' id='-awards'></span>
+# 🏅 Honors and Awards
 * 2023 Nominees, Best Paper, 44th International Conference on Information Systems (ICIS 2023), Association for Information Systems (AIS)
 * 2023 Recipient, Annual Top 10 Case Studies in China, CDGDC, Ministry of Education, China 
 * 2021 Recipient, Outstanding Postgraduate, Education Department of Guangdong Province, China
@@ -85,9 +83,8 @@ Chinese Journal Articles
 * 2015 Second Runner Up, Theoretical Innovation Award, Logistics and Supply Chain Society of Guangdong, China
 
 
-
-# 📖 Academic Services
 <span class='anchor' id='-services'></span>
+# 📖 Academic Services
 * Peer Reviewer for Journals
   * Information Systems Journal
   * Internet Research
