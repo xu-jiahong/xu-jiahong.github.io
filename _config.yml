@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xu, Jiahong (徐嘉泓)"
+title                    : "Xu Jiahong(徐嘉泓)"
 description              : "Ph.D Student in MIS"
 repository               : "xu-jiahong.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xu, Jiahong (徐嘉泓)"
+  name             : "Xu Jiahong(徐嘉泓)"
   avatar           : "images/myphoto.png"
   bio              : "USTC"
   location         : "Hefei, China"
