@@ -17,11 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at the School of Management, University of Science and Technology of China (USTC), Hefei, China. 
+I am a Ph.D. candidate at the School of Management, University of Science and Technology of China (USTC), Hefei, China. My research interests involve immersive technologies (AR/VR/MR/XR) and metaverse e-commerce, gamification, and sustainable business.
 
-My research interests involve immersive technologies (AR/VR/MR/XR) and metaverse e-commerce, gamification, and sustainable business. My works have appeared in refereed journals and international conferences, such as International Journal of Information Management, Journal of Computer Information Systems, Journal of Cleaner Production, Nankai Business Review, Management Review, the proceedings of the International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and the Association for Information Science and Technology (ASIS&T) Asia-Pacific Regional Conference.
+Currently, I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'>google scholar citations <strong><span id='total_cit'>190+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). My works have appeared in refereed journals and international conferences, such as International Journal of Information Management, Journal of Computer Information Systems, Journal of Cleaner Production, Nankai Business Review, Management Review, the proceedings of the International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and the Association for Information Science and Technology (ASIS&T) Asia-Pacific Regional Conference.
 
-Currently, I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 🎓 Education
 * Ph.D in Management Sciences, University of Science and Technology of China, 2025 (expected)
@@ -61,9 +60,9 @@ Chinese Journal Articles
   * rewarded as **Annual Top 10 Case Studies** in China (Ministry of Education, CDGDC) [[News]](https://case.cdgdc.edu.cn//index/sfalyj.do)
   * rewarded as **Top 1% Highly Cited Paper** in CNKI
 * [CJ2]	Du, H. S., **Xu, J. H.***, Luo, Z., Li, D., and Yu, X. (2018). “Analysis of Sustainable Business Model at the Base of Pyramid: Multi-case Study based on Northeastern Guangdong,” Management Review (30:9), pp. 292-304. [[DOI]](https://doi.org/10.14120/j.cnki.cn11-5057/f.2018.09.027)
-  * rewarded as "**Outstanding Paper Award** (Runners Up)" by Systems Engineering Society of Guangdong, China
+  * rewarded as **Outstanding Paper Award** (Runners Up) by Systems Engineering Society of Guangdong, China
 * [CJ1]	**Xu, J. H.***, Dong, Z. and Huang, M. (2015). “Application and Relative Advantage of Airship Transportation in Emergency Logistics Operations,” Logistics Technology (34:10), pp. 11-14. [[DOI]](https://doi.org/10.3969/j.issn.1005-152X.2015.10.004)
-  * rewarded as "**Theoretical Innovation Award** (Second Runner Up)" by Logistics and Supply Chain Society of Guangdong, China
+  * rewarded as **Theoretical Innovation Award** (Second Runner Up) by Logistics and Supply Chain Society of Guangdong, China
 
 
 # 🏅 Honors and Awards
