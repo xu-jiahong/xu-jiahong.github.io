@@ -29,17 +29,17 @@ Currently, I have published more than 10 papers with total <a href='https://scho
 * B.S. in Management Sciences, Guangdong University of Technology, 2018
 
 
-# 🏛️ Visiting & Exchange
+# 🏛️ Visiting and Exchange
 * Ph.D Visiting in Nanyang Technological University, 2024
 * Postgraduate Visiting in The University of Hong Kong, 2018
 * Undergraduate Visiting in University of California, Berkeley, 2017
 
 
-# 📝 Publications & Works
+# 📝 Publications and Works
 
 Journal Articles
 ======
-* [J4]	**Xu, J. H**., Du, H. S.*, Shen, K. N., and Zhang, D. P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," International Journal of Information Management (64). [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
+* [J4]	**Xu, J. H**., Du, H. S.,* Shen, K. N., and Zhang, D. P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," International Journal of Information Management (64). [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
   * rewarded as **Top 1% Highly Cited Paper** in the ESI of Web of Science
 * [J3]	Du, H. S., **Xu, J. H.***, Tang, H., and Jiang, R. X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," Journal of Computer Information Systems (62:1), pp. 174-185. [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
 * [J2]	Du, H. S., **Xu, J. H.***, Li, Z. Y., Liu, Y., and Chu, S. K. W. (2021). "Bibliometric Mapping on Sustainable Development at the Base-of-the-Pyramid," Journal of Cleaner Production (281). [[DOI]](https://doi.org/10.1016/j.jclepro.2020.125290)
@@ -75,7 +75,7 @@ Chinese Journal Articles
 * 2015 Second Runner Up, Theoretical Innovation Award, Logistics and Supply Chain Society of Guangdong, China
 
 
-# 📖 Academic Service
+# 📖 Academic Services
 * Peer Reviewer for Journals
   * Information Systems Journal
   * Internet Research
