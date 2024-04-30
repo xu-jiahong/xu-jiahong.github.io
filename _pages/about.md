@@ -17,10 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at the School of Management, University of Science and Technology of China (USTC), Hefei, China. My research interests involve immersive technologies (AR/VR/MR/XR) and metaverse e-commerce, gamification, and sustainable business.
+I am a Ph.D. candidate at the School of Management, University of Science and Technology of China (USTC), Hefei, China. 
 
-Currently, I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'>google scholar citations <strong><span id='total_cit'>190+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). My works have appeared in refereed journals and international conferences, such as International Journal of Information Management, Journal of Computer Information Systems, Journal of Cleaner Production, Nankai Business Review, Management Review, the proceedings of the International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and the Association for Information Science and Technology (ASIS&T) Asia-Pacific Regional Conference.
+I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>. My works have appeared in refereed journals and international conferences, such as International Journal of Information Management, Journal of Computer Information Systems, Journal of Cleaner Production, Nankai Business Review, Management Review, the proceedings of the International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and the Association for Information Science and Technology (ASIS&T) Asia-Pacific Regional Conference.
 
+My current research interests involve: 
+* metaverse and extended reality (AR/VR/MR)
+* digital commerce
+* gamification
+* sustainable business
 
 # 🎓 Education
 * Ph.D in Management Sciences, University of Science and Technology of China, 2025 (expected)
