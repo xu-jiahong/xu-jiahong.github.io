@@ -32,12 +32,14 @@ My current research interests involve:
 * M.S. in Management Sciences, Guangdong University of Technology, 2021
 * B.S. in Management Sciences, Guangdong University of Technology, 2018
 
+<span class='anchor' id='-education'></span>
 
 # 🏛️ Visiting and Exchange
 * Ph.D Visiting in Nanyang Technological University, 2024
 * Postgraduate Visiting in The University of Hong Kong, 2018
 * Undergraduate Visiting in University of California, Berkeley, 2017
 
+<span class='anchor' id='-visiting'></span>
 
 # 📝 Publications and Works
 
@@ -69,6 +71,7 @@ Chinese Journal Articles
 * [CJ1]	**Xu, J. H.***, Dong, Z. and Huang, M. (2015). “Application and Relative Advantage of Airship Transportation in Emergency Logistics Operations,” Logistics Technology (34:10), pp. 11-14. [[DOI]](https://doi.org/10.3969/j.issn.1005-152X.2015.10.004)
   * rewarded as **Theoretical Innovation Award** (Second Runner Up) by Logistics and Supply Chain Society of Guangdong, China
 
+<span class='anchor' id='-publication'></span>
 
 # 🏅 Honors and Awards
 * 2023 Nominees, Best Paper, 44th International Conference on Information Systems (ICIS 2023), Association for Information Systems (AIS)
@@ -78,6 +81,7 @@ Chinese Journal Articles
 * 2015 Members, Outstanding Practice Team Award, All-China Students’ Federation, China
 * 2015 Second Runner Up, Theoretical Innovation Award, Logistics and Supply Chain Society of Guangdong, China
 
+<span class='anchor' id='-awards'></span>
 
 # 📖 Academic Services
 * Peer Reviewer for Journals
@@ -98,3 +102,5 @@ Chinese Journal Articles
   * Hawaii International Conference on System Sciences (HICSS)
   * Wuhan International Conference on E-Business (WICEB)
   * Chinese Association for Information Systems (CNAIS)
+
+<span class='anchor' id='-services'></span>
