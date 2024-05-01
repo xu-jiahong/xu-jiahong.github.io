@@ -9,7 +9,7 @@
 title                    : "Xu Jiahong(徐嘉泓)"
 description              : "Ph.D Student in MIS"
 repository               : "xu-jiahong.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "xu-jiahong"
   google_plus      :
   keybase          :
   instagram        :
