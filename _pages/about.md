@@ -19,13 +19,13 @@ redirect_from:
 
 I am a Ph.D. candidate at the School of Management, University of Science and Technology of China (USTC), Hefei, China. If you are seeking any form of academic cooperation, please feel free to email me at xujiahong@mail.ustc.edu.cn. 
 
-I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. My works have appeared in refereed journals and conferences, such as International Journal of Information Management, Journal of Computer Information Systems, Nankai Business Review, Management Review, the proceedings of International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and others.
+I have published 10+ papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> My works have appeared in refereed journals and conferences, e.g., International Journal of Information Management, Journal of Computer Information Systems, Nankai Business Review, Management Review, the proceedings of International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and others.
 
 My current research interests involve: 
 * metaverse and extended reality (AR/VR/MR)
-* digital commerce
-* gamification
-* sustainable business
+* digital commerce and platform economy
+* gamification information systems
+* sustainable business model
 
 <span class='anchor' id='-education'></span>
 # 🎓 Education
