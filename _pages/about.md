@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at the School of Management, University of Science and Technology of China (USTC), Hefei, China. 
+I am a Ph.D. candidate at the School of Management, University of Science and Technology of China (USTC), Hefei, China. If you are seeking any form of academic cooperation, please feel free to email me at xujiahong@mail.ustc.edu.cn. 
 
-I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>. My works have appeared in refereed journals and international conferences, such as International Journal of Information Management, Journal of Computer Information Systems, Nankai Business Review, Management Review, the proceedings of the International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and others.
+I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>. My works have appeared in refereed journals and conferences, such as International Journal of Information Management, Journal of Computer Information Systems, Nankai Business Review, Management Review, the proceedings of International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and others.
 
 My current research interests involve: 
 * metaverse and extended reality (AR/VR/MR)
@@ -64,8 +64,8 @@ Conference Proceedings
 
 Chinese Journal Articles
 ======
-* [CJ3]	Du, H. S., **Xu, J. H.***, Zhang, D. P., and Yang, X. G. (2022). “How Gamification Drives E-commerce Users’ Green Consumption Behaviors: A Netnography Study of Ant-Forest,” Nankai Business Review (25:2), pp. 191-204. [[DOI]](https://doi.org/10.3969/j.issn.1008-3448.2022.02.019)
-  * rewarded as **Annual Top 10 Case Studies** in China (Ministry of Education, CDGDC) [[News]](https://case.cdgdc.edu.cn//index/sfalyj.do)
+* [CJ3]	Du, H. S., **Xu, J. H.***, Zhang, D. P., and Yang, X. G. (2022). “How Gamification Drives E-commerce Users’ Green Consumption Behaviors: A Netnography Study of Ant-Forest,” Nankai Business Review (25:2), pp. 191-204. [[DOI]](https://doi.org/10.3969/j.issn.1008-3448.2022.02.019) [[News]](http://www.fter50.org.cn/research/1424.html)
+  * rewarded as **Annual Top 10 Case Studies** in China (Ministry of Education, CDGDC) [[Award]](https://case.cdgdc.edu.cn//index/sfalyj.do)
   * rewarded as **Top 1% Highly Cited Paper** and **Top 0.1% Downloaded Paper** (13000+) in CNKI
 * [CJ2]	Du, H. S., **Xu, J. H.***, Luo, Z., Li, D., and Yu, X. (2018). “Analysis of Sustainable Business Model at the Base of Pyramid: Multi-case Study based on Northeastern Guangdong,” Management Review (30:9), pp. 292-304. [[DOI]](https://doi.org/10.14120/j.cnki.cn11-5057/f.2018.09.027)
   * rewarded as **Outstanding Paper Award** (Runners Up) by Systems Engineering Society of Guangdong, China
