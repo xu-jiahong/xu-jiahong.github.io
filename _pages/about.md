@@ -13,13 +13,13 @@ redirect_from:
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "https://github.com/xu-jiahong/xu-jiahong.github.io/blob/a8735df723715a7b3b7aa7728dae0f408227463e/gs_data_shieldsio.json" %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
 I am a Ph.D. candidate at the School of Management, University of Science and Technology of China (USTC), Hefei, China. If you are seeking any form of academic cooperation, please feel free to email me at xujiahong@mail.ustc.edu.cn. 
 
-I have published 10+ papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> My works have appeared in refereed journals and conferences, e.g., International Journal of Information Management, Journal of Computer Information Systems, Nankai Business Review, Management Review, the proceedings of International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and others.
+I have published 10+ papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. My works have appeared in refereed journals and conferences, e.g., International Journal of Information Management, Journal of Computer Information Systems, Nankai Business Review, Management Review, the proceedings of International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and others.
 
 My current research interests involve: 
 * metaverse and extended reality (AR/VR/MR)
