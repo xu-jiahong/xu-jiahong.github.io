@@ -13,7 +13,7 @@ redirect_from:
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% assign url = gsDataBaseUrl | append: "https://github.com/xu-jiahong/xu-jiahong.github.io/blob/a8735df723715a7b3b7aa7728dae0f408227463e/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
