@@ -17,28 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at the School of Management, University of Science and Technology of China (USTC), Hefei, China. If you are seeking any form of academic cooperation, please feel free to email me at xujiahong@mail.ustc.edu.cn. 
+I am a Ph.D. student at the School of Management, University of Science and Technology of China (USTC), Hefei, China. If you are seeking any form of academic cooperation, please feel free to email me at xujiahong@mail.ustc.edu.cn. 
 
-I have published 10+ papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. My works have appeared in refereed journals and conferences, e.g., International Journal of Information Management, Journal of Computer Information Systems, Nankai Business Review, Management Review, the proceedings of International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and others.
+I have published 10+ papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. My works have appeared in refereed journals and conferences, e.g., International Journal of Information Management, Journal of Computer Information Systems, Nankai Business Review, Management Review, the proceedings of International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and others. 
 
 My current research interests involve: 
 * metaverse and extended reality (AR/VR/MR)
 * digital commerce and platform economy
 * gamification information systems
 * sustainable business model
-
-<span class='anchor' id='-education'></span>
-# 🎓 Education
-* Ph.D in Management Sciences, University of Science and Technology of China, 2025 (expected)
-* M.S. in Management Sciences, Guangdong University of Technology, 2021
-* B.S. in Management Sciences, Guangdong University of Technology, 2018
-
-
-<span class='anchor' id='-visiting'></span>
-# 🏛️ Visiting and Exchange
-* Ph.D Visiting in Nanyang Technological University, 2024
-* Postgraduate Visiting in The University of Hong Kong, 2018
-* Undergraduate Visiting in University of California, Berkeley, 2017
 
 
 <span class='anchor' id='-publication'></span>
@@ -71,6 +58,20 @@ Chinese Journal Articles
   * rewarded as **Outstanding Paper Award** (Runners Up) by Systems Engineering Society of Guangdong, China
 * [CJ1]	**Xu, J. H.***, Dong, Z. and Huang, M. (2015). “Application and Relative Advantage of Airship Transportation in Emergency Logistics Operations,” Logistics Technology (34:10), pp. 11-14. [[DOI]](https://doi.org/10.3969/j.issn.1005-152X.2015.10.004)
   * rewarded as **Theoretical Innovation Award** (Second Runner Up) by Logistics and Supply Chain Society of Guangdong, China
+
+
+<span class='anchor' id='-education'></span>
+# 🎓 Education
+* Ph.D in Management Sciences, University of Science and Technology of China, 2025 (expected)
+* M.S. in Management Sciences, Guangdong University of Technology, 2021
+* B.S. in Management Sciences, Guangdong University of Technology, 2018
+
+
+<span class='anchor' id='-visiting'></span>
+# 🏛️ Visiting and Exchange
+* Ph.D Visiting in Nanyang Technological University, 2024
+* Postgraduate Visiting in The University of Hong Kong, 2018
+* Undergraduate Visiting in University of California, Berkeley, 2017
 
 
 <span class='anchor' id='-awards'></span>
