@@ -42,8 +42,7 @@ Journal Articles
 Conference Proceedings
 ======
 * [C5]	**Xu, J. H.**, Zhou, J. M., Liu, H. F., and Huang, Q. (2023) “How Online Extended Reality (XR) Promotes Consumer Offline Engagement”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[Link]](https://aisel.aisnet.org/icis2023/emobilecomm/emobilecomm/2/)
-  * nominated as the **Best Paper** for ICIS 2023 [[Awards]](https://aisel.aisnet.org/icis2023/awards.html)
-  * rewarded as one of the **Best Track Papers** for "Digital and Mobile Commerce" Track in ICIS 2023 
+  * rewarded as the **Best Paper Nominees** for ICIS 2023 (in "Digital and Mobile Commerce" Track) [[Awards]](https://aisel.aisnet.org/icis2023/awards.html)
 * [C4]	**Xu, J. H.**, and Zhou, J. M. (2023) “Bridging Consumers’ Self-Brand Distance Through Virtual-Reality: Perspective from Presence Experiences”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[Link]](https://aisel.aisnet.org/icis2023/techandfow/techandfow/10/)
 * [C3]	Lv, J. Y., **Xu, J. H.**, and Du, H. S. (2021) “How Gamification Affordances Drive Micro Public Welfare,” In Proceedings of the 25th Pacific Asia Conference on Information Systems (PACIS). [[Link]](https://aisel.aisnet.org/pacis2021/187/)
 * [C2]	**Xu, J. H.**, Du, H. S., and Shen, K. N. (2020) “From players to citizens: Gamification in the e-commerce context,” In Proceedings of the 24th Pacific Asia Conference on Information Systems (PACIS). [[Link]](https://aisel.aisnet.org/pacis2020/233/)
