@@ -33,21 +33,23 @@ My current research interests involve:
 
 Journal Articles
 ======
-* [J5] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2024). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience”. Internet Research (accepted)
-* [J4]	**Xu, J.H**., Du, H.S.,* Shen, K.N., and Zhang, D.P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," International Journal of Information Management (64). [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
+* [J5] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2024). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience”. _Internet Research_ (accepted)
+* [J4]	**Xu, J.H**., Du, H.S.,* Shen, K.N., and Zhang, D.P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," _International Journal of Information Management_ (64). [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
   * rewarded as **Top 1% Highly Cited Paper** in the ESI of Web of Science
-* [J3]	Du, H.S., **Xu, J.H.***, Tang, H., and Jiang, R.X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," Journal of Computer Information Systems (62:1), pp. 174-185. [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
-* [J2]	Du, H.S., **Xu, J.H.***, Li, Z.Y., Liu, Y., and Chu, S.K.W. (2021). "Bibliometric Mapping on Sustainable Development at the Base-of-the-Pyramid," Journal of Cleaner Production (281). [[DOI]](https://doi.org/10.1016/j.jclepro.2020.125290)
-* [J1]	Du, H.S., Zhan, B.Q.*, **Xu, J.H.**, and Yang, X.G. (2019). "The Influencing Mechanism of Multi-Factors on Green Investments: A Hybrid Analysis," Journal of Cleaner Production (239). [[DOI]](https://doi.org/10.1016/j.jclepro.2019.117977)
+* [J3]	Du, H.S., **Xu, J.H.***, Tang, H., and Jiang, R.X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," _Journal of Computer Information Systems_ (62:1), pp. 174-185. [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
+* [J2]	Du, H.S., **Xu, J.H.***, Li, Z.Y., Liu, Y., and Chu, S.K.W. (2021). "Bibliometric Mapping on Sustainable Development at the Base-of-the-Pyramid," _Journal of Cleaner Production_ (281). [[DOI]](https://doi.org/10.1016/j.jclepro.2020.125290)
+* [J1]	Du, H.S., Zhan, B.Q.*, **Xu, J.H.**, and Yang, X.G. (2019). "The Influencing Mechanism of Multi-Factors on Green Investments: A Hybrid Analysis," _Journal of Cleaner Production_ (239). [[DOI]](https://doi.org/10.1016/j.jclepro.2019.117977)
 
 Conference Proceedings
 ======
-* [C5]	**Xu, J. H.**, Zhou, J. M., Liu, H. F., and Huang, Q. (2023) “How Online Extended Reality (XR) Promotes Consumer Offline Engagement”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[Link]](https://aisel.aisnet.org/icis2023/emobilecomm/emobilecomm/2/)
+* [C7] Xu, J.H., Liu, H.F., Choi, B.C.F., Zhou, J.M., and Boh, W.F. (2024) “Seeing Is Believing or Is It Not? Expectancy Formulation and (Dis-)Confirmation with Virtual Reality Tours in Fanwork Merchandise Manufacturing”. In Proceedings of the 23rd Annual Pre-ICIS Workshop on HCI Research in MIS (HCI/MIS Workshop 2024).
+* [C6] Xu, J.H., Wang, W., and Liu, H.F. (2024) “When Virtual Reality Supports Customer Acquisition: A Configurational Approach from the Perspective of Customer-Technology-Environment”. In Proceedings of the 23rd Annual Pre-ICIS Workshop on HCI Research in MIS (HCI/MIS Workshop 2024).
+* [C5]	**Xu, J.H.**, Zhou, J.M., Liu, H.F., and Huang, Q. (2023) “How Online Extended Reality (XR) Promotes Consumer Offline Engagement”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[Link]](https://aisel.aisnet.org/icis2023/emobilecomm/emobilecomm/2/)
   * rewarded as the **Best Paper Nominees** for ICIS 2023 (in "Digital and Mobile Commerce" Track) [[Awards]](https://aisel.aisnet.org/icis2023/awards.html)
-* [C4]	**Xu, J. H.**, and Zhou, J. M. (2023) “Bridging Consumers’ Self-Brand Distance Through Virtual-Reality: Perspective from Presence Experiences”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[Link]](https://aisel.aisnet.org/icis2023/techandfow/techandfow/10/)
-* [C3]	Lv, J. Y., **Xu, J. H.**, and Du, H. S. (2021) “How Gamification Affordances Drive Micro Public Welfare,” In Proceedings of the 25th Pacific Asia Conference on Information Systems (PACIS). [[Link]](https://aisel.aisnet.org/pacis2021/187/)
-* [C2]	**Xu, J. H.**, Du, H. S., and Shen, K. N. (2020) “From players to citizens: Gamification in the e-commerce context,” In Proceedings of the 24th Pacific Asia Conference on Information Systems (PACIS). [[Link]](https://aisel.aisnet.org/pacis2020/233/)
-* [C1]	Zhan, B., Du, H. S. and **Xu, J.** (2019). “A Bibliometric Analysis of Social Media Research in Finance,” In Proceedings of Association for Information Science and Technology (ASIST) Asia-Pacific Regional Conference. [[Link]](https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23739231/ASIST-AP%202019%20Conference%20Proceedings-1606758940430.pdf)
+* [C4]	**Xu, J.H.**, and Zhou, J.M. (2023) “Bridging Consumers’ Self-Brand Distance Through Virtual-Reality: Perspective from Presence Experiences”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[Link]](https://aisel.aisnet.org/icis2023/techandfow/techandfow/10/)
+* [C3]	Lv, J.Y., **Xu, J.H.**, and Du, H.S. (2021) “How Gamification Affordances Drive Micro Public Welfare,” In Proceedings of the 25th Pacific Asia Conference on Information Systems (PACIS). [[Link]](https://aisel.aisnet.org/pacis2021/187/)
+* [C2]	**Xu, J.H.**, Du, H.S., and Shen, K.N. (2020) “From players to citizens: Gamification in the e-commerce context,” In Proceedings of the 24th Pacific Asia Conference on Information Systems (PACIS). [[Link]](https://aisel.aisnet.org/pacis2020/233/)
+* [C1]	Zhan, B., Du, H.S. and **Xu, J.** (2019). “A Bibliometric Analysis of Social Media Research in Finance,” In Proceedings of Association for Information Science and Technology (ASIST) Asia-Pacific Regional Conference. [[Link]](https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23739231/ASIST-AP%202019%20Conference%20Proceedings-1606758940430.pdf)
 
 Chinese Journal Articles
 ======
