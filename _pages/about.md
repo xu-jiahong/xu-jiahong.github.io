@@ -33,11 +33,12 @@ My current research interests involve:
 
 Journal Articles
 ======
-* [J4]	**Xu, J. H**., Du, H. S.,* Shen, K. N., and Zhang, D. P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," International Journal of Information Management (64). [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
+* [J5] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2024). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience”. Internet Research (accepted)
+* [J4]	**Xu, J.H**., Du, H.S.,* Shen, K.N., and Zhang, D.P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," International Journal of Information Management (64). [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
   * rewarded as **Top 1% Highly Cited Paper** in the ESI of Web of Science
-* [J3]	Du, H. S., **Xu, J. H.***, Tang, H., and Jiang, R. X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," Journal of Computer Information Systems (62:1), pp. 174-185. [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
-* [J2]	Du, H. S., **Xu, J. H.***, Li, Z. Y., Liu, Y., and Chu, S. K. W. (2021). "Bibliometric Mapping on Sustainable Development at the Base-of-the-Pyramid," Journal of Cleaner Production (281). [[DOI]](https://doi.org/10.1016/j.jclepro.2020.125290)
-* [J1]	Du, H. S., Zhan, B. Q.*, **Xu, J. H.**, and Yang, X. G. (2019). "The Influencing Mechanism of Multi-Factors on Green Investments: A Hybrid Analysis," Journal of Cleaner Production (239). [[DOI]](https://doi.org/10.1016/j.jclepro.2019.117977)
+* [J3]	Du, H.S., **Xu, J.H.***, Tang, H., and Jiang, R.X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," Journal of Computer Information Systems (62:1), pp. 174-185. [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
+* [J2]	Du, H.S., **Xu, J.H.***, Li, Z.Y., Liu, Y., and Chu, S.K.W. (2021). "Bibliometric Mapping on Sustainable Development at the Base-of-the-Pyramid," Journal of Cleaner Production (281). [[DOI]](https://doi.org/10.1016/j.jclepro.2020.125290)
+* [J1]	Du, H.S., Zhan, B.Q.*, **Xu, J.H.**, and Yang, X.G. (2019). "The Influencing Mechanism of Multi-Factors on Green Investments: A Hybrid Analysis," Journal of Cleaner Production (239). [[DOI]](https://doi.org/10.1016/j.jclepro.2019.117977)
 
 Conference Proceedings
 ======
