@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. student at the School of Management, University of Science and Technology of China (USTC), Hefei, China. If you are seeking any form of academic cooperation, please feel free to email me at xujiahong@mail.ustc.edu.cn. 
 
-I have published 10+ papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. My works have appeared in refereed journals and conferences, e.g., International Journal of Information Management, Journal of Computer Information Systems, Nankai Business Review, Management Review, the proceedings of International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and others. 
+I have published 10+ papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. My works have appeared in refereed journals and conferences, e.g., _Internet Research, International Journal of Information Management, Journal of Computer Information Systems, Nankai Business Review, Management Review_, the proceedings of International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and others. 
 
 My current research interests involve: 
 * metaverse and extended reality (AR/VR/MR)
@@ -33,7 +33,7 @@ My current research interests involve:
 
 Journal Articles
 ======
-* [J5] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2024). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience”. _Internet Research_ (accepted)
+* [J5] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2024). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience,” _Internet Research_ (accepted)
 * [J4]	**Xu, J.H**., Du, H.S.,* Shen, K.N., and Zhang, D.P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," _International Journal of Information Management_ (64). [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
   * rewarded as **Top 1% Highly Cited Paper** in the ESI of Web of Science
 * [J3]	Du, H.S., **Xu, J.H.***, Tang, H., and Jiang, R.X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," _Journal of Computer Information Systems_ (62:1), pp. 174-185. [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
