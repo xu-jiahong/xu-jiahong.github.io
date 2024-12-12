@@ -33,7 +33,7 @@ My current research interests involve:
 
 Journal Articles
 ======
-* [J5] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2024). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience,” _Internet Research_ (accepted)
+* [J5] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2024). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience,” _Internet Research_. [[DOI]](https://doi.org/10.1108/INTR-09-2023-0738)
 * [J4]	**Xu, J.H**., Du, H.S.,* Shen, K.N., and Zhang, D.P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," _International Journal of Information Management_ (64). [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
   * rewarded as **Top 1% Highly Cited Paper** in the ESI of Web of Science
 * [J3]	Du, H.S., **Xu, J.H.***, Tang, H., and Jiang, R.X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," _Journal of Computer Information Systems_ (62:1), pp. 174-185. [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
