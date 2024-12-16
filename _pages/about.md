@@ -78,12 +78,13 @@ Chinese Journal Articles
 
 <span class='anchor' id='-awards'></span>
 # 🏅 Honors and Awards
-* 2023 Nominees, Best Paper, 44th International Conference on Information Systems (ICIS 2023), Association for Information Systems (AIS)
-* 2023 Recipient, Annual Top 10 Case Studies in China, CDGDC, Ministry of Education, China 
-* 2021 Recipient, Outstanding Postgraduate, Education Department of Guangdong Province, China
-* 2018 Runners Up, Outstanding Paper Award, Systems Engineering Society of Guangdong, China
-* 2015 Members, Outstanding Practice Team Award, All-China Students’ Federation, China
-* 2015 Second Runner Up, Theoretical Innovation Award, Logistics and Supply Chain Society of Guangdong, China
+* 2024 Best Reviewer Award, 23rd Annual Pre-ICIS Workshop on HCI Research in MIS, AIS SIG on Human Computer Interaction (SIGHCI)
+* 2023 Best Paper Nominee, 44th International Conference on Information Systems (ICIS 2023), Association for Information Systems (AIS)
+* 2023 Annual Top 10 Case Studies in China, CDGDC, Ministry of Education, China 
+* 2021 Outstanding Postgraduate, Education Department of Guangdong Province, China
+* 2018 Outstanding Paper Award (Runners Up), Systems Engineering Society of Guangdong, China
+* 2015 Outstanding Practice Team Award, All-China Students’ Federation, China
+* 2015 Theoretical Innovation Award (Second Runner Up), Logistics and Supply Chain Society of Guangdong, China
 
 
 <span class='anchor' id='-services'></span>
