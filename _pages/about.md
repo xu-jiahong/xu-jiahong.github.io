@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at the School of Management, University of Science and Technology of China (USTC), Hefei, China. If you are seeking any form of academic cooperation, please feel free to email me at xujiahong@mail.ustc.edu.cn. 
+I am a Ph.D. candidate at the School of Management, University of Science and Technology of China (USTC), Hefei, China. If you are seeking any form of academic cooperation, please feel free to email me at xujiahong@mail.ustc.edu.cn. 
 
 I have published 10+ papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. My works have appeared in refereed journals and conferences, e.g., _Internet Research, International Journal of Information Management, Journal of Computer Information Systems, Nankai Business Review, Management Review_, the proceedings of International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and others. 
 
@@ -73,12 +73,12 @@ Chinese Journal Articles
 # 🏛️ Visiting and Exchange
 * Ph.D Visiting in Nanyang Technological University, 2024
 * Postgraduate Visiting in The University of Hong Kong, 2018
-* Undergraduate Visiting in University of California, Berkeley, 2017
+* Undergraduate Visiting in University of California (UC Berkeley), 2017
 
 
 <span class='anchor' id='-awards'></span>
 # 🏅 Honors and Awards
-* 2024 Best Reviewer Award, 23rd Annual Pre-ICIS Workshop on HCI Research in MIS, AIS SIG on Human Computer Interaction (SIGHCI)
+* 2024 Best Reviewer Award, 23rd Annual Pre-ICIS Workshop on HCI Research in MIS, AIS SIG on Human-Computer Interaction (SIGHCI)
 * 2023 Best Paper Nominee, 44th International Conference on Information Systems (ICIS 2023), Association for Information Systems (AIS)
 * 2023 Annual Top 10 Case Studies in China, CDGDC, Ministry of Education, China 
 * 2021 Outstanding Postgraduate, Education Department of Guangdong Province, China
@@ -103,6 +103,7 @@ Chinese Journal Articles
   * Journal of Information and Knowledge Management
 
 * Peer Reviewer for Conferences
+  * Academy of Management Annual Meeting (AOM)
   * International Conference on Information Systems (ICIS)
   * Pacific Asia Conference on Information Systems (PACIS)
   * Americas Conference on Information Systems (AMCIS)
