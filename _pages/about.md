@@ -17,13 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at the School of Management, University of Science and Technology of China (USTC), Hefei, China. If you are seeking any form of academic cooperation, please feel free to email me at xujiahong@mail.ustc.edu.cn. 
-
-I have published 10+ papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. My works have appeared in refereed journals and conferences, e.g., _Internet Research, International Journal of Information Management, Journal of Computer Information Systems, Nankai Business Review, Management Review_, the proceedings of International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and others. 
+Jiahong Xu is an Lecturer (Assistant Professor) at the Department of Tourism Management, Hainan University. He received his Ph.D. degree in management science and engineering from the University of Science and Technology of China (USTC), Hefei, China. He have published 10+ papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. His works have appeared in refereed journals and conferences, e.g., _Internet Research, International Journal of Information Management, Nankai Business Review, Management Review_, and academic conferences of International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and others. If you are seeking any form of academic cooperation, please feel free to email me at xu.jiahong@outlook.com 
 
 My current research interests involve: 
-* metaverse and extended reality (AR/VR/MR)
-* digital commerce and platform economy
+* digital commerce and platform operation
+* digital marketing and consumer behavior
+* metaverse (AR/VR) and cultural tourism 
 * gamification information systems
 * sustainable business model
 
@@ -42,8 +41,8 @@ Journal Articles
 
 Conference Proceedings
 ======
-* [7] **Xu, J.H.**, Liu, H.F., Choi, B.C.F., Zhou, J.M., and Boh, W.F. (2024) “Seeing Is Believing or Is It Not? Expectancy Formulation and (Dis-)Confirmation with Virtual Reality Tours in Fanwork Merchandise Manufacturing”. In Proceedings of the 23rd Annual Pre-ICIS Workshop on HCI Research in MIS (SIGHCI 2024). [[Link]](https://aisel.aisnet.org/sighci2024/2)
-* [6] **Xu, J.H.**, Wang, W., and Liu, H.F. (2024) “When Virtual Reality Supports Customer Acquisition: A Configurational Approach from the Perspective of Customer-Technology-Environment”. In Proceedings of the 23rd Annual Pre-ICIS Workshop on HCI Research in MIS (SIGHCI 2024). [[Link]](https://aisel.aisnet.org/sighci2024/7)
+* [7] **Xu, J.H.**, Liu, H.F., Choi, B.C.F., Zhou, J.M., and Boh, W.F. (2024) “Seeing Is Believing or Is It Not? Expectancy Formulation and (Dis-)Confirmation with Virtual Reality Tours in Fanwork Merchandise Manufacturing”. In SIGHCI 2024. [[Link]](https://aisel.aisnet.org/sighci2024/2)
+* [6] **Xu, J.H.**, Wang, W., and Liu, H.F. (2024) “When Virtual Reality Supports Customer Acquisition: A Configurational Approach from the Perspective of Customer-Technology-Environment”. In SIGHCI 2024. [[Link]](https://aisel.aisnet.org/sighci2024/7)
 * [5]	**Xu, J.H.**, Zhou, J.M., Liu, H.F., and Huang, Q. (2023) “How Online Extended Reality (XR) Promotes Consumer Offline Engagement”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[Link]](https://aisel.aisnet.org/icis2023/emobilecomm/emobilecomm/2/)
   * rewarded as the **Best Paper Nominees** for ICIS 2023 (in "Digital and Mobile Commerce" Track) [[Awards]](https://aisel.aisnet.org/icis2023/awards.html)
 * [4]	**Xu, J.H.**, and Zhou, J.M. (2023) “Bridging Consumers’ Self-Brand Distance Through Virtual-Reality: Perspective from Presence Experiences”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[Link]](https://aisel.aisnet.org/icis2023/techandfow/techandfow/10/)
@@ -53,13 +52,11 @@ Conference Proceedings
 
 Chinese Journal Articles
 ======
-* [3]	Du, H.S., **Xu, J.H.***, Zhang, D.P., and Yang, X.G. (2022). “How Gamification Drives E-commerce Users’ Green Consumption Behaviors: A Netnography Study of Ant-Forest,” Nankai Business Review (25:2), pp. 191-204. [[DOI]](https://doi.org/10.3969/j.issn.1008-3448.2022.02.019) [[News]](http://www.fter50.org.cn/research/1424.html)
+* [2]	Du, H.S., **Xu, J.H.***, Zhang, D.P., and Yang, X.G. (2022). “How Gamification Drives E-commerce Users’ Green Consumption Behaviors: A Netnography Study of Ant-Forest,” Nankai Business Review (25:2), pp. 191-204. [[DOI]](https://doi.org/10.3969/j.issn.1008-3448.2022.02.019) [[News]](http://www.fter50.org.cn/research/1424.html)
   * rewarded as **Annual Top 10 Case Studies** in China (Ministry of Education, CDGDC) [[Award]](https://case.cdgdc.edu.cn//index/sfalyj.do)
   * rewarded as **Top 1% Highly Cited Paper** and **Top 0.1% Downloaded Paper** (downloaded by 15,000+) in CNKI
-* [2]	Du, H.S., **Xu, J.H.***, Luo, Z., Li, D., and Yu, X. (2018). “Analysis of Sustainable Business Model at the Base of Pyramid: Multi-case Study based on Northeastern Guangdong,” Management Review (30:9), pp. 292-304. [[DOI]](https://doi.org/10.14120/j.cnki.cn11-5057/f.2018.09.027)
+* [1]	Du, H.S., **Xu, J.H.***, Luo, Z., Li, D., and Yu, X. (2018). “Analysis of Sustainable Business Model at the Base of Pyramid: Multi-case Study based on Northeastern Guangdong,” Management Review (30:9), pp. 292-304. [[DOI]](https://doi.org/10.14120/j.cnki.cn11-5057/f.2018.09.027)
   * rewarded as **Outstanding Paper Award** (Runners Up) by Systems Engineering Society of Guangdong, China
-* [1]	**Xu, J.H.***, Dong, Z. and Huang, M. (2015). “Application and Relative Advantage of Airship Transportation in Emergency Logistics Operations,” Logistics Technology (34:10), pp. 11-14. [[DOI]](https://doi.org/10.3969/j.issn.1005-152X.2015.10.004)
-  * rewarded as **Theoretical Innovation Award** (Second Runner Up) by Logistics and Supply Chain Society of Guangdong, China
 
 
 <span class='anchor' id='-education'></span>
@@ -67,7 +64,6 @@ Chinese Journal Articles
 * Ph.D in Management Sciences, University of Science and Technology of China, 2025
 * M.S. in Management Sciences, Guangdong University of Technology, 2021
 * B.S. in Management Sciences, Guangdong University of Technology, 2018
-
 
 <span class='anchor' id='-visiting'></span>
 # 🏛️ Visiting and Exchange
@@ -81,7 +77,6 @@ Chinese Journal Articles
 * 2024 Best Reviewer Award, 23rd Annual Pre-ICIS Workshop on HCI Research in MIS, AIS SIG on Human-Computer Interaction (SIGHCI)
 * 2023 Best Paper Nominee, 44th International Conference on Information Systems (ICIS 2023), Association for Information Systems (AIS)
 * 2023 Annual Top 10 Case Studies in China, CDGDC, Ministry of Education, China 
-* 2021 Outstanding Postgraduate, Education Department of Guangdong Province, China
 * 2018 Outstanding Paper Award (Runners Up), Systems Engineering Society of Guangdong, China
 * 2015 Outstanding Practice Team Award, All-China Students’ Federation, China
 * 2015 Theoretical Innovation Award (Second Runner Up), Logistics and Supply Chain Society of Guangdong, China
@@ -93,14 +88,9 @@ Chinese Journal Articles
   * Information Systems Journal
   * Internet Research
   * Information Technology and People
-  * International Journal of Information Management
   * Technological Forecasting and Social Change
-  * Industrial Management and Data Systems
-  * International Journal of Human-Computer Interaction
-  * Sustainability Accounting Management and Policy Journal
-  * Journal of Cleaner Production
-  * Journal of Systems and Information Technology
-  * Journal of Information and Knowledge Management
+  * International Journal of Information Management
+  * among others
 
 * Peer Reviewer for Conferences
   * Academy of Management Annual Meeting (AOM)
@@ -108,7 +98,6 @@ Chinese Journal Articles
   * Pacific Asia Conference on Information Systems (PACIS)
   * Americas Conference on Information Systems (AMCIS)
   * Hawaii International Conference on System Sciences (HICSS)
-  * Wuhan International Conference on E-Business (WICEB)
-  * Chinese Association for Information Systems (CNAIS)
+  * among others
 
 
