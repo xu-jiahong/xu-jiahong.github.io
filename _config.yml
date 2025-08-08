@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xu Jiahong"
-description              : "Ph.D Student in MIS"
+description              : "Ph.D"
 repository               : "xu-jiahong/xu-jiahong.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xu Jiahong"
   avatar           : "images/myphoto.png"
-  bio              : "USTC"
-  location         : "Hefei, China"
-  employer         :
+  bio              : "USTC Ph.D"
+  location         : "Haikou, China"
+  employer         : "Hainan University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=B26bu8EAAAAJ"
   email            : "xujiahong@mail.ustc.edu.cn" 
