@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xu Jiahong"
-description              : "Ph.D"
+description              : "Hainan University, Lecturer"
 repository               : "xu-jiahong/xu-jiahong.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xu Jiahong"
   avatar           : "images/myphoto.png"
-  bio              : "USTC Ph.D"
+  bio              : "USTC, Ph.D degree in Management Science"
   location         : "Haikou, China"
-  employer         : "Hainan University"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=B26bu8EAAAAJ"
-  email            : "xujiahong@mail.ustc.edu.cn" 
+  email            : "xujh@hainanu.edu.cn" 
   researchgate     : "https://www.researchgate.net/profile/Jiahong-Xu-7"
   uri              :
   bitbucket        :
