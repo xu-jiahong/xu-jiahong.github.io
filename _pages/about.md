@@ -51,10 +51,9 @@ Conference Proceedings
 Chinese Journal Articles
 ======
 * [2]	Du, H.S., **Xu, J.H.***, Zhang, D.P., and Yang, X.G. (2022). “How Gamification Drives E-commerce Users’ Green Consumption Behaviors: A Netnography Study of Ant-Forest,” Nankai Business Review (25:2), pp. 191-204. [[DOI]](https://doi.org/10.3969/j.issn.1008-3448.2022.02.019)
-  * rewarded as **Annual Top 10 Case Studies** in China (Ministry of Education, CDGDC) [[Award]](https://case.cdgdc.edu.cn//index/sfalyj.do)
+  * rewarded as **Annual Top 10 Case Studies** in China (Ministry of Education, CDGDC) [[Award]](https://case.cdgdc.edu.cn/content-detail/1816759368977223682)
   * rewarded as **Top 1% Highly Cited Paper** and **Top 0.1% Downloaded Paper** (downloaded by 15,000+) in CNKI
 * [1]	Du, H.S., **Xu, J.H.***, Luo, Z., Li, D., and Yu, X. (2018). “Analysis of Sustainable Business Model at the Base of Pyramid: Multi-case Study based on Northeastern Guangdong,” Management Review (30:9), pp. 292-304. [[DOI]](https://doi.org/10.14120/j.cnki.cn11-5057/f.2018.09.027)
-  * rewarded as **Outstanding Paper Award** (Runners Up) by Systems Engineering Society of Guangdong, China
 
 
 <span class='anchor' id='-education'></span>
