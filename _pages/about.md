@@ -17,16 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jiahong Xu is an Lecturer (Assistant Professor) at the Department of Tourism Management, Hainan University. He received his Ph.D. degree in management science and engineering from the University of Science and Technology of China (USTC), Hefei, China. He have published 10+ papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. His works have appeared in refereed journals and conferences, e.g., _Internet Research, International Journal of Information Management, Nankai Business Review, Management Review_, and academic conferences of International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and among others. If you are seeking any form of academic cooperation, please feel free to email me at xujh@hainanu.edu.cn 
+Jiahong Xu is a Lecturer (or Assistant Professor) at the [Department of Tourism Management](https://citpa.hainanu.edu.cn/info/1961/78531.htm) and the [Department of E-Commerce](https://haic.hainanu.edu.cn/info/1925/9537.htm), Hainan University. He received his Ph.D. degree in management science and engineering from the University of Science and Technology of China (USTC), Hefei, China. He have published 10+ papers with total <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Google Scholar Citations"></a>, as well as 170+ citations and 19,000+ downloads in [CNKI](https://au.cnki.net/author/personalInfo/000058299505). His works have appeared in refereed journals and conferences, e.g., _Internet Research, International Journal of Information Management, Nankai Business Review, Management Review_, and academic conferences of International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and among others. 
 
-My current research interests involve: 
-* digital commerce and platform operation
-* digital marketing and consumer behavior
-* metaverse (AR/VR) and cultural tourism 
-* gamification information systems
-* sustainable business model
+My current research focus on Human-AI Interaction @Metaverse (haɪ~Meta), major interests including: digital commerce and platform operation, digital marketing and consumer behavior, metaverse (AR/VR) and cultural tourism, gamification information systems, and sustainable business model
 
+If you are seeking any form of academic cooperation, please feel free to email me 📫 xujh@hainanu.edu.cn 
 
+<span class='anchor' id='-education'></span>
+# 🎓 Education and Work Experiences
+* 2025-now, Hainan University, Lecturer
+* 2021-2025, University of Science and Technology of China (USTC), Ph.D
+  * 2024-2025, Nanyang Technological University (NTU), Visiting Ph.D
+* 2018-2021, Guangdong University of Technology, M.S.
+  * 2018, University of Hong Kong (HKU), Visiting
+* 2014-2018, Guangdong University of Technology, B.S.
+  * 2017, University of California (UC Berkeley), Visiting
+
+  
 <span class='anchor' id='-publication'></span>
 # 📝 Publications and Works
 
@@ -40,6 +47,8 @@ Journal Articles
 
 Conference Proceedings
 ======
+* [9] Gao, L.F., **Xu, J.H.**, Liu, H.F., and Liu, H.Y. (2025) “How Promoting Cultural Non-fungible Tokens (NFTs) Marketing: The Roles of Virtual Reality Narrative”. accepted as oral presentation paper at CNAIS 2025.
+* [8] Ma, M., Tan, R., Feng, J.; Huang, Q., and **Xu, J.** (2025) "When is AI Superior to Human? Unveiling the Effects of “Word-of-Machine” on Debt Collection Utilizing Different Types of Privacy". In Proceedings of 46th International Conference on Information Systems (ICIS). [[Link]](https://aisel.aisnet.org/icis2025/cyb_security/cyb_security/14)
 * [7] **Xu, J.H.**, Liu, H.F., Choi, B.C.F., Zhou, J.M., and Boh, W.F. (2024) “Seeing Is Believing or Is It Not? Expectancy Formulation and (Dis-)Confirmation with Virtual Reality Tours in Fanwork Merchandise Manufacturing”. In SIGHCI 2024. [[Link]](https://aisel.aisnet.org/sighci2024/2)
 * [6] **Xu, J.H.**, Wang, W., and Liu, H.F. (2024) “When Virtual Reality Supports Customer Acquisition: A Configurational Approach from the Perspective of Customer-Technology-Environment”. In SIGHCI 2024. [[Link]](https://aisel.aisnet.org/sighci2024/7)
 * [5]	**Xu, J.H.**, Zhou, J.M., Liu, H.F., and Huang, Q. (2023) “How Online Extended Reality (XR) Promotes Consumer Offline Engagement”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[Link]](https://aisel.aisnet.org/icis2023/emobilecomm/emobilecomm/2/) [[Best Paper Nominees Awards]](https://aisel.aisnet.org/icis2023/awards.html)
@@ -56,19 +65,6 @@ Chinese Journal Articles
 * [1]	Du, H.S., **Xu, J.H.***, Luo, Z., Li, D., and Yu, X. (2018). “Analysis of Sustainable Business Model at the Base of Pyramid: Multi-case Study based on Northeastern Guangdong,” Management Review (30:9), pp. 292-304. [[DOI]](https://doi.org/10.14120/j.cnki.cn11-5057/f.2018.09.027)
 
 
-<span class='anchor' id='-education'></span>
-# 🎓 Education
-* Ph.D in Management Sciences, University of Science and Technology of China, 2025
-* M.S. in Management Sciences, Guangdong University of Technology, 2021
-* B.S. in Management Sciences, Guangdong University of Technology, 2018
-
-<span class='anchor' id='-visiting'></span>
-# 🏛️ Visiting and Exchange
-* Ph.D Visiting in Nanyang Technological University, 2024
-* Postgraduate Visiting in The University of Hong Kong, 2018
-* Undergraduate Visiting in University of California (UC Berkeley), 2017
-
-
 <span class='anchor' id='-awards'></span>
 # 🏅 Honors and Awards
 * 2024 Best Reviewer Award, 23rd Annual Pre-ICIS Workshop on HCI Research in MIS, AIS SIG on Human-Computer Interaction (SIGHCI)
@@ -81,19 +77,17 @@ Chinese Journal Articles
 <span class='anchor' id='-services'></span>
 # 📖 Academic Services
 * Journal Reviewer
-  * Information Systems Journal
-  * Internet Research
-  * Information Technology and People
-  * Technological Forecasting and Social Change
-  * International Journal of Information Management
-  * among others
+  * _Information Systems Journal (ISJ), Information Technology and People (ITP), Internet Research (IntR)_
+  * _IEEE Transactions on Engineering Management (IEEE TEM), Technological Forecasting and Social Change (TFSC)_
+  * _International Journal of Information Management (IJIM), International Journal of Human-Computer Interaction (IJHCI)_
+  * _Humanities and Social Sciences Communications (Nature HSSC)_
+  * among others SSCI/SCI/A&HCI/FMS-listed/ABS-listed/ABDC-listed journals 
 
 * Conferences Reviewer 
   * Academy of Management Annual Meeting (AOM)
   * International Conference on Information Systems (ICIS)
   * Pacific Asia Conference on Information Systems (PACIS)
-  * Americas Conference on Information Systems (AMCIS)
   * Hawaii International Conference on System Sciences (HICSS)
-  * among others
+  * among others 
 
 
