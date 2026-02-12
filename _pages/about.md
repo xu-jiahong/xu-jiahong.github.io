@@ -39,9 +39,9 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 Journal Articles
 ======
-* [5] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2024). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience,” _Internet Research_. [[DOI]](https://doi.org/10.1108/INTR-09-2023-0738)
+* [5] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2026). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience,” _Internet Research_, 36(1): 132-153. [[DOI]](https://doi.org/10.1108/INTR-09-2023-0738)
 * [4]	**Xu, J.H**., Du, H.S.,* Shen, K.N., and Zhang, D.P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," _International Journal of Information Management_ (64). [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477) **Top 1% Highly-Cited Paper**
-* [3]	Du, H.S., **Xu, J.H.***, Tang, H., and Jiang, R.X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," _Journal of Computer Information Systems_ (62:1), pp. 174-185. [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
+* [3]	Du, H.S., **Xu, J.H.***, Tang, H., and Jiang, R.X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," _Journal of Computer Information Systems_ 62(1): 174-185. [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
 * [2]	Du, H.S., **Xu, J.H.***, Li, Z.Y., Liu, Y., and Chu, S.K.W. (2021). "Bibliometric Mapping on Sustainable Development at the Base-of-the-Pyramid," _Journal of Cleaner Production_ (281). [[DOI]](https://doi.org/10.1016/j.jclepro.2020.125290)
 * [1]	Du, H.S., Zhan, B.Q.*, **Xu, J.H.**, and Yang, X.G. (2019). "The Influencing Mechanism of Multi-Factors on Green Investments: A Hybrid Analysis," _Journal of Cleaner Production_ (239). [[DOI]](https://doi.org/10.1016/j.jclepro.2019.117977)
 
@@ -65,6 +65,11 @@ Chinese Journal Articles
 * [1]	Du, H.S., **Xu, J.H.***, Luo, Z., Li, D., and Yu, X. (2018). “Analysis of Sustainable Business Model at the Base of Pyramid: Multi-case Study based on Northeastern Guangdong,” Management Review (30:9), pp. 292-304. [[DOI]](https://doi.org/10.14120/j.cnki.cn11-5057/f.2018.09.027)
 
 
+# 🎓 Teaching Experiences
+* Lecturer, _Overview of E-commerce_, Undergraduate course, Hainan University–Arizona State University International College (HAIC)
+* Teaching Assistant, _Lectures on Frontier Theory & Practice of Management Science_, PhD/Master course, USTC
+* Teaching Assistant, _Using Secondary Data in Operations Management Research_, PhD/Master course, USTC
+
 <span class='anchor' id='-awards'></span>
 # 🏅 Honors and Awards
 * 2024 Best Reviewer Award, 23rd Annual Pre-ICIS Workshop on HCI Research in MIS, AIS SIG on Human-Computer Interaction (SIGHCI)
@@ -83,7 +88,10 @@ Chinese Journal Articles
   * _Humanities and Social Sciences Communications (Nature HSSC)_
   * among others SSCI/SCI/AHCI/FMS-listed/ABS-listed/ABDC-listed journals 
 
-* Conferences Reviewer 
+* Conference Committee Member
+  * China Summer Workshop on Information Management (CSWIM 2026) Publication Co-Chairs
+  
+* Conference Reviewer 
   * Academy of Management Annual Meeting (AOM)
   * International Conference on Information Systems (ICIS)
   * Pacific Asia Conference on Information Systems (PACIS)
