@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jiahong Xu is a Lecturer (or Assistant Professor) at the [Department of Tourism Management](https://citpa.hainanu.edu.cn/info/1961/78531.htm)/[Department of E-Commerce](https://haic.hainanu.edu.cn/info/1925/9537.htm), Hainan University. He received his Ph.D. degree in management science and engineering from the University of Science and Technology of China (USTC), Hefei, China. He have published 10+ papers with <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Google Scholar Citations"></a>, as well as about 200 citations and 20,000 downloads in [CNKI](https://au.cnki.net/author/personalInfo/000058299505). His works have appeared in refereed journals and conferences, e.g., _Internet Research, International Journal of Information Management, Nankai Business Review, Management Review_, and academic conferences of International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and among others. 
+Jiahong Xu is a Lecturer (or Assistant Professor) at the [Department of Tourism Management](https://citpa.hainanu.edu.cn/info/1961/78531.htm)/[Department of E-Commerce](https://haic.hainanu.edu.cn/info/1925/9537.htm), Hainan University. He received his Ph.D. degree in management science and engineering from the University of Science and Technology of China (USTC), Hefei, China. He have published 10+ papers with <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Google Scholar Citations"></a>, as well as about 200+ citations and 20,000+ downloads in [CNKI](https://au.cnki.net/author/personalInfo/000058299505). His works have appeared in refereed journals and conferences, e.g., _Internet Research, International Journal of Information Management, Nankai Business Review, Management Review_, and academic conferences of International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and among others. 
 
 My current research focus on Human-AI Interaction @Metaverse (haɪ~Meta), major interests including: digital commerce and platform operation, metaverse (AR/VR) e-commerce and cultural tourism marketing, gamification and sustainable business model
 
@@ -26,11 +26,10 @@ If you are seeking any form of academic cooperation, please feel free to email m
 <span class='anchor' id='-education'></span>
 # 🎓 Education and Work Experiences
 * 2025-now, Hainan University, Lecturer
-* 2021-2025, University of Science and Technology of China (USTC), Ph.D
-  * 2024-2025, Nanyang Technological University (NTU), Visiting Ph.D
-* 2018-2021, Guangdong University of Technology, M.S.
-  * 2018, University of Hong Kong (HKU), Visiting
-* 2014-2018, Guangdong University of Technology, B.S.
+* 2021-2025, University of Science and Technology of China, Ph.D
+  * 2024, Nanyang Technological University, Visiting Ph.D
+* 2014-2021, Guangdong University of Technology, B.S./M.S.
+  * 2018, University of Hong Kong, Visiting
   * 2017, University of California (UC Berkeley), Visiting
 
   
