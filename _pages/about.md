@@ -23,6 +23,12 @@ My current research focus on Human-AI Interaction @Metaverse (haɪ~Meta), major 
 
 If you are seeking any form of academic cooperation, please feel free to email me 📫 xujh@hainanu.edu.cn 
 
+# 🎉 News
+* 🔥2026.3：Two conference papers accepted by CTO Division at AOM 2026
+* 2026.1：Invited to serve as Publication Co-chair at CSWIM 2026
+* 2025.9：One conference paper accepted by CNAIS 2025
+
+
 <span class='anchor' id='-education'></span>
 # 🎓 Education and Work Experiences
 * 2025-now, Hainan University, Lecturer
@@ -44,8 +50,10 @@ Journal Articles
 * [2]	Du, H.S., **Xu, J.H.***, Li, Z.Y., Liu, Y., and Chu, S.K.W. (2021). "Bibliometric Mapping on Sustainable Development at the Base-of-the-Pyramid," _Journal of Cleaner Production_, 281. [[DOI]](https://doi.org/10.1016/j.jclepro.2020.125290)
 * [1]	Du, H.S., Zhan, B.Q.*, **Xu, J.H.**, and Yang, X.G. (2019). "The Influencing Mechanism of Multi-Factors on Green Investments: A Hybrid Analysis," _Journal of Cleaner Production_, 239. [[DOI]](https://doi.org/10.1016/j.jclepro.2019.117977)
 
-Conference Proceedings
+Conference Papers and Proceedings
 ======
+* 🔥[11] Gao, L.F., Liu, H.F., Liu, H.Y., **Xu, J.H.** (2026) "How Virtual Reality Affects Cultural Souvenirs Purchase: A Narrative Perspective," CTO Division Paper Accepted at 86th Annual Meeting of the Academy of Management (AOM 2026).
+* 🔥[10] Tu, J.G., Liu, H.F., **Xu, J.H.**, Yao, X.Y. (2026) "Why Virtual Reality Projects Fail: Disclosure Paradox in Experiential Technology Crowdfunding," CTO Division Paper Accepted at 86th Annual Meeting of the Academy of Management (AOM 2026). 
 * [9] Gao, L.F., **Xu, J.H.**, Liu, H.F., and Liu, H.Y. (2025) “How Promoting Cultural Non-fungible Tokens (NFTs) Marketing: The Roles of Virtual Reality Narrative”. accepted as oral presentation paper at CNAIS 2025.
 * [8] Ma, M., Tan, R., Feng, J.; Huang, Q., and **Xu, J.** (2025) "When is AI Superior to Human? Unveiling the Effects of “Word-of-Machine” on Debt Collection Utilizing Different Types of Privacy". In Proceedings of 46th International Conference on Information Systems (ICIS). [[Link]](https://aisel.aisnet.org/icis2025/cyb_security/cyb_security/14)
 * [7] **Xu, J.H.**, Liu, H.F., Choi, B.C.F., Zhou, J.M., and Boh, W.F. (2024) “Seeing Is Believing or Is It Not? Expectancy Formulation and (Dis-)Confirmation with Virtual Reality Tours in Fanwork Merchandise Manufacturing”. In SIGHCI 2024. [[Link]](https://aisel.aisnet.org/sighci2024/2)
@@ -65,7 +73,7 @@ Chinese Journal Articles
 
 
 # 🎓 Teaching Experiences
-* Lecturer, _Overview of E-commerce_, Undergraduate course, Hainan University–Arizona State University International College (HAIC)
+* Lecturer, _Overview of E-commerce_, Undergraduate course, Hainan University–Arizona State University International College (HAIC), collaborated with Thunderbird School of Global Management at ASU
 * Teaching Assistant, _Lectures on Frontier Theory & Practice of Management Science_, PhD/Master course, USTC
 * Teaching Assistant, _Using Secondary Data in Operations Management Research_, PhD/Master course, USTC
 
