@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jiahong Xu is a Lecturer (or Assistant Professor) at the [Department of Tourism Management](https://citpa.hainanu.edu.cn/info/1961/78531.htm)/[Department of E-Commerce](https://haic.hainanu.edu.cn/info/1925/9537.htm), Hainan University. He received his Ph.D. degree in management science and engineering from the University of Science and Technology of China (USTC), Hefei, China. He have published 10+ papers with <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Google Scholar Citations"></a>, as well as about 200+ citations and 20,000+ downloads in [CNKI](https://au.cnki.net/author/personalInfo/000058299505). His works have appeared in refereed journals and conferences, e.g., _Internet Research, International Journal of Information Management, Nankai Business Review, Management Review_, and academic conferences of International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and among others. 
+Jiahong Xu is a Lecturer (or Assistant Professor) at the [Department of Tourism Management](https://citpa.hainanu.edu.cn/info/1961/78531.htm)/[Department of E-Commerce](https://haic.hainanu.edu.cn/info/1925/9537.htm), Hainan University. He received his Ph.D. degree in management science and engineering from the University of Science and Technology of China (USTC), Hefei, China. He have published nearly 20 papers with <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Google Scholar Citations"></a>, as well as about 200+ citations and 20,000+ downloads in [CNKI](https://au.cnki.net/author/personalInfo/000058299505). His works have appeared in refereed journals and conferences, e.g., _Internet Research, International Journal of Information Management, Nankai Business Review, Management Review_, and academic conferences of International Conference on Information Systems (ICIS), Pacific Asia Conference on Information Systems (PACIS), and among others. 
 
 My current research focus on Human-AI Interaction @Metaverse (haɪ~Meta), major interests including: digital commerce and platform operation, metaverse (AR/VR) e-commerce and cultural tourism marketing, gamification and sustainable business model
 
@@ -73,7 +73,7 @@ Chinese Journal Articles
 
 
 # 🎓 Teaching Experiences
-* Lecturer, _Overview of E-commerce_, Undergraduate course, Hainan University–Arizona State University International College (HAIC), collaborated with Thunderbird School of Global Management at ASU
+* Lecturer, _Overview of E-commerce_, Undergraduate course, Hainan University–Arizona State University International College (HAIC)
 * Teaching Assistant, _Lectures on Frontier Theory & Practice of Management Science_, PhD/Master course, USTC
 * Teaching Assistant, _Using Secondary Data in Operations Management Research_, PhD/Master course, USTC
 
@@ -92,6 +92,7 @@ Chinese Journal Articles
   * _Information Systems Journal (ISJ), Information Technology and People (ITP), Internet Research (IntR)_
   * _IEEE Transactions on Engineering Management (IEEE TEM), Technological Forecasting and Social Change (TFSC)_
   * _International Journal of Information Management (IJIM), International Journal of Human-Computer Interaction (IJHCI)_
+  * _Humanities & Social Sciences Communications (Springer Nature HSSC)_
   * among others SSCI/SCI/AHCI/FMS-listed/ABS-listed/ABDC-listed journals 
 
 * Conference Committee Member
