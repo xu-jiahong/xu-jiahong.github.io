@@ -31,7 +31,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 <span class='anchor' id='-education'></span>
 # 🎓 Education and Work Experiences
-* 2025-now, Hainan University, Lecturer
+* 2025-now, Hainan University, Lecturer (Assistant Professor)
 * 2021-2025, University of Science and Technology of China, Ph.D
   * 2024, Nanyang Technological University, Visiting Ph.D
 * 2014-2021, Guangdong University of Technology, B.S./M.S.
@@ -106,3 +106,4 @@ Chinese Journal Articles
   * among others 
 
 
+![](https://komarev.com/ghpvc/?username=xu-jiahong&color=177CB0&style=plastic&label=Profile+Views&base=200&abbreviated=true)
