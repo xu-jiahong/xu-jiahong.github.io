@@ -29,11 +29,6 @@ If you are seeking any form of academic cooperation, please feel free to email m
 * 2025.9：One conference paper accepted by CNAIS 2025
 
 
-# 🎓 Teaching Experiences
-* Lecturer, _Overview of E-commerce_, Undergraduate course, Hainan University–Arizona State University International College (HAIC)
-* Teaching Assistant, _Lectures on Frontier Theory & Practice of Management Science_, PhD/Master course, USTC
-* Teaching Assistant, _Using Secondary Data in Operations Management Research_, PhD/Master course, USTC
-
 <span class='anchor' id='-awards'></span>
 # 🏅 Honors and Awards
 * 2024 Best Reviewer Award, 23rd Annual Pre-ICIS Workshop on HCI Research in MIS, AIS SIG on Human-Computer Interaction (SIGHCI)
@@ -41,6 +36,13 @@ If you are seeking any form of academic cooperation, please feel free to email m
 * 2023 Annual Top 10 Case Studies in China, CDGDC, Ministry of Education, China 
 * 2018 Outstanding Paper Award (Runners Up), Systems Engineering Society of Guangdong, China
 * 2015 Theoretical Innovation Award (Second Runner Up), Logistics and Supply Chain Society of Guangdong, China
+
+
+# 🎓 Teaching Experiences
+* Lecturer, _Overview of E-commerce_, Undergraduate course, Hainan University–Arizona State University International College (HAIC)
+* Teaching Assistant, _Lectures on Frontier Theory & Practice of Management Science_, PhD/Master course, USTC
+* Teaching Assistant, _Using Secondary Data in Operations Management Research_, PhD/Master course, USTC
+
 
 
 <span class='anchor' id='-services'></span>
