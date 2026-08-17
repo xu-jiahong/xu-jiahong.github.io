@@ -4,14 +4,14 @@ main:
     url: "/#about-me"
 
   - title: "Publications"
-    url: "/#-publication"
+    url: "/#publications"
 
   - title: "Education and Work Experiences"
-    url: "/#-education"
+    url: "/#education"
 
   - title: "Honors and Awards"
-    url: "/#-awards"
+    url: "/#awards"
 
   - title: "Academic Services"
-    url: "/#-services"
+    url: "/#services"
 
