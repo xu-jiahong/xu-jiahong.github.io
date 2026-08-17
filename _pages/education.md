@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Educations
-description: My education and work experiences
+title: education
 type: pages
 menu: true
 order: 3
+permalink: /
+author_profile: true
+redirect_from: 
+  - /education/
+  - /education.html
 ---
 
 # 🎓 Education and Work Experiences
