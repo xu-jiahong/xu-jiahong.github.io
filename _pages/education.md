@@ -4,10 +4,7 @@ title: education
 type: pages
 menu: true
 order: 3
-permalink: /
-redirect_from: 
-  - /education/
-  - /education.html
+permalink: /education
 ---
 
 # 🎓 Education and Work Experiences
