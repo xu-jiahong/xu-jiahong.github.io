@@ -5,7 +5,6 @@ type: pages
 menu: true
 order: 3
 permalink: /
-author_profile: true
 redirect_from: 
   - /education/
   - /education.html
