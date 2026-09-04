@@ -11,6 +11,8 @@ permalink: /publications
 
 Journal Articles
 ======
+* [6] **Xu, J.H.**, Liu, H.Y.,* and Zhou, J.M. (2027). “How Virtual Reality Presence Experiences Engage Online Visitors in Actual Destination: A Dual-path Model,” _Journal of Business Research_, in press. (SCI/SSCI Q1, ABS 3, FMS B, ABDC A) [[DOI]](https://doi.org/10.1016/j.jbusres.2026.116517)
+  * 🔥🔥🔥[[Free access before October 23, 2026]](https://authors.elsevier.com/c/1njCwXj-jrKCN)
 * [5] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2026). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience,” _Internet Research_, 36(1): 132-153. [[DOI]](https://doi.org/10.1108/INTR-09-2023-0738)
 * [4]	**Xu, J.H**., Du, H.S.,* Shen, K.N., and Zhang, D.P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," _International Journal of Information Management_, 64. [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477) **Top 1% Highly-Cited Paper**
 * [3]	Du, H.S., **Xu, J.H.***, Tang, H., and Jiang, R.X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," _Journal of Computer Information Systems_, 62(1): 174-185. [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
