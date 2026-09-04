@@ -10,7 +10,7 @@ main:
     url: /education
 
   - title: "Honors and Awards"
-    url: "/#awards"
+    url: /awards
 
   - title: "Academic Services"
     url: /services
