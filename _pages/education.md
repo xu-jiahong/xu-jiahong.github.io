@@ -34,7 +34,14 @@ permalink: /education
     <p>Visiting, University of California (UC Berkeley), 2017</p>
   </div>
 
-    
+
+
+# 🎓 Teaching Experiences
+* Lecturer, _Overview of E-commerce_, Undergraduate course, Hainan University–Arizona State University International College (HAIC)
+* Lecturer, _Research Method_, Undergraduate course, Hainan University
+* Teaching Assistant, _Lectures on Frontier Theory & Practice of Management Science_, PhD/Master course, USTC
+* Teaching Assistant, _Using Secondary Data in Operations Management Research_, PhD/Master course, USTC
+
   </div>
 </div>
 
