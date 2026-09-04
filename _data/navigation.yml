@@ -13,5 +13,5 @@ main:
     url: "/#awards"
 
   - title: "Academic Services"
-    url: "/#services"
+    url: /services
 
