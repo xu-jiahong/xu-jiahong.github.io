@@ -1,5 +1,5 @@
 ---
-permalink: services
+permalink: /services
 title: ""
 author_profile: true
 --- 
@@ -25,9 +25,5 @@ author_profile: true
   * International Conference on Information Systems (ICIS), and pre-ICIS SIGHCI Workshop (SIGHCI)
   * Hawaii International Conference on System Sciences (HICSS)
   * among others like AMCIS, CNAIS, CSWIM, ICEB, ICEC, WHICEB, and PACIS
-
-
-
-
 
 
