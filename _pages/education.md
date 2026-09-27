@@ -38,7 +38,7 @@ permalink: /education
 
 # 🎓 Teaching Experiences
 * Lecturer, _Overview of E-commerce_, Undergraduate course, Hainan University–Arizona State University International College (HAIC)
-* Lecturer, _Research Method_, Undergraduate course, Hainan University
+* Lecturer, _Research Method_, Undergraduate course, International School of Tourism and Public Administration, Hainan University
 * Teaching Assistant, _Lectures on Frontier Theory & Practice of Management Science_, PhD/Master course, USTC
 * Teaching Assistant, _Using Secondary Data in Operations Management Research_, PhD/Master course, USTC
 
