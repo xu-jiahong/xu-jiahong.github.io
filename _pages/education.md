@@ -5,8 +5,9 @@ menu: true
 order: 3
 permalink: /education
 ---
+# 🎓 Education and Teaching
 
-## 🎓 Education and Work Experiences
+## Education and Work Experiences
 
 <div class="profile">
   <div class="profile-body">
@@ -36,7 +37,7 @@ permalink: /education
 
 
 
-## 🎓 Teaching Experiences
+## Teaching Experiences
 
 * Lecturer, _Overview of E-commerce_, Undergraduate course, Hainan University–Arizona State University International College (HAIC)
 * Lecturer, _Research Method_, Undergraduate course, International School of Tourism and Public Administration, Hainan University
