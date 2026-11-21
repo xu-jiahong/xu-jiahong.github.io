@@ -1,9 +1,7 @@
 ---
-title: education
-type: pages
-menu: true
-order: 3
 permalink: /education
+title: ""
+author_profile: true
 ---
 
 ---
@@ -36,7 +34,7 @@ permalink: /education
     <p>Visiting, University of California (UC Berkeley), 2017</p>
   </div>
 
-
+</div>
 
 ## 👥 Teaching Experiences
 
