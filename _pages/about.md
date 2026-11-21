@@ -25,7 +25,6 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 # 🎉 News
 * 2026.9: One paper was accepted by _Journal of Business Research_ (ABS 3, IF=11.1) [[DOI]](https://doi.org/10.1016/j.jbusres.2026.116517)
-  * 🎉[[Free access before October 23, 2026]](https://authors.elsevier.com/c/1njCwXj-jrKCN)🔑
 * 2026.8：Two conference papers were accepted by CTO Division at AOM 2026
 * 2026.6：Invited to serve as Session Arrangement Co-chair at CSWIM 2026
 * 2025.9：One conference paper was accepted by CNAIS 2025
